@@ -1,4 +1,3 @@
-# Image-Classification-Bag-Of-Visual-Word-Tiny-Image-AlexNet-GoogLeNet
 computer vision
 =======
 # bag of visual word tiny image Alex net GoogLeNet
