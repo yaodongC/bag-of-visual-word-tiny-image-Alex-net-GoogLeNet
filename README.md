@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Image-Classification-Bag-Of-Visual-Word-Tiny-Image-AlexNet-GoogLeNet
 computer vision
+=======
+# bag of visual word tiny image Alex net GoogLeNet
+>>>>>>> cb27096d62a69ef982db9d7b2fc9a3faf54f36f2
 This is a team effort,
 Run 1 and run 2 are Xiaoqing chai's work.
 This project contains three programs.
